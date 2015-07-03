@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/admin/form/qrcodesetting</path>
+    <page_callback>CRM_Civiqrcode_Form_QRCodeSettings</page_callback>
+    <title>QRCodeSettings</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/view/qrcodesetting</path>
+    <page_callback>CRM_Civiqrcode_Page_QRCodeSettings</page_callback>
+    <title>QRCodeSettings</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>

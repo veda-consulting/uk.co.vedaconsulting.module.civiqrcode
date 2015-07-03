@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="uk.co.vedaconsulting.module.civiqrcode" type="module">
+  <file>civiqrcode</file>
+  <name>CiviCRM QR-Code</name>
+  <description>All functionalities to generate Civicrm QR-Code Tokens  </description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>VedaConsulting</author>
+    <email>support@vedaconsulting.co.uk</email>
+  </maintainer>
+  <releaseDate>2015-06-26</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Civiqrcode</namespace>
+  </civix>
+</extension>
